@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arima&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arima&family=Jost&display=swap');
+
+
+h1{font-family: arima;
+    text-align:center;
+    font-weight: bold;
+    padding-top: 15px;
+
+}
+h2 {
+    font-family: arima;
+    line-height: 3rem;
+    font-weight: bold;
+}
+
+p {
+    font-family: jost;
+}
+
+.navbar-toggler {
+    background-color: pink;
+    border: none;
+}
+
+h3 {
+    font-family: arima;
+
+}
+
+
+.btn {
+    background-color: pink;
+}
+
+.card {
+    width: 18rem;
+    margin: 1rem;
+}
+
+.card > img {
+    margin-top: 10px;
+}
+
+.accordion-button {
+    background-color: rgba(255, 221, 226, 0.226);
+}
